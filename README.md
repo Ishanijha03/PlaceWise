@@ -28,10 +28,9 @@ in one responsive web application.
         cd Backend
         npm install
 
-   Test commit by Bhumika
 
-4. Start the server
+3. Start the server
 
         node server.js
 
-5. Open Frontend/index.html in your browser
+4. Open Frontend/index.html in your browser
